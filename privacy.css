@@ -1,0 +1,16 @@
+*{
+	margin-top: 30px;
+	margin-right: 85px;
+	margin-left: 85px;
+	padding: 0; box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+	/*background-image: url(../rupalipvtiti/images/time.jpg);*/
+	background-size: cover;
+	color: white;
+	background-attachment: fixed;
+	background-image: linear-gradient(180deg, #1e4d92, #00c6a7 );
+	clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+.para{
+	font-size: 22px;
+}
